@@ -11,7 +11,8 @@ Open Repository for Energy Simulation from Colekmes Energy
  - [PSST](https://github.com/power-system-simulation-toolbox/psst), PSST - Power System Simulation Toolbox
 	 - [Documentation](https://psst.readthedocs.io/)
  - [CENTAUR](https://github.com/susantoj/CENTAUR), Python-based hybrid power system / microgrid simulation program (similar to HOMER, Hybrid2) with functional GUI
-
+ - [PyPSA](https://github.com/PyPSA/PyPSA), Python for Power System Analysis
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTYyODM0MF19
+eyJoaXN0b3J5IjpbMTQ2NTg4MjA5OCwtNzM1NjI4MzQwXX0=
 -->
